@@ -1,3 +1,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/Everith/dotfiles
+[submodule "Vendor/dotfiles"]
+	path = Vendor/dotfiles
+	url = https://github.com/Everith/dotfiles

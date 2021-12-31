@@ -4,3 +4,6 @@
 [submodule "Vendor/dotfiles"]
 	path = Vendor/dotfiles
 	url = https://github.com/Everith/dotfiles
+[submodule "Vendor/nvim"]
+	path = Vendor/nvim
+	url = https://github.com/Everith/nvim

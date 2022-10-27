@@ -6,4 +6,4 @@
 	url = https://github.com/Everith/dotfiles
 [submodule "Vendor/nvim"]
 	path = Vendor/nvim
-	url = https://github.com/Everith/nvim
+	url = git@github.com:Everith/nvim.git
